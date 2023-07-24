@@ -1,6 +1,8 @@
-<div align="center>
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100" />
-  </div>
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <br/>
+    <h1>Woraroj Suruxruttanaskul</h1>
+</div>
   <br/>
 <div align="center">
    <a href="https://gitlab.com/woraroj">
@@ -46,8 +48,22 @@
     <a href="">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Firebase Badge"/>
   </a>
-  
   </div>
+
+  ---
+<h3> :computer: EMPLOYMENT HISTORY :computer: </h3> 
+- I’m working as a Software Engineer at <a href="shop.hongthongofficial.com">shop.hongthongofficial.com</a> <br/>
+- Former Software Engineer at Appman.co <br/>
+- Former Frontend Developer at AI TECHNOVATION.CO <br/>
+- Former Intern as a Frontend Developer at NELLIKA CONSULTANCY <br/>
+<br/>
+
+<h3> :mortar_board: EDUCATION :mortar_board: </h3> 
+<h4>Cornerstone International Community College of Canada | Vancouver, CA</h5>
+<h6>Diploma of Web And Mobile App Development	 	|	 January 2017-December 2018</h6>
+
+<h4>Dust Thani College	 | Bangkok, TH</h5>
+<h6>Bachelor of Business Administration		 	|	 March 2013- March 2016</h6>
 
 
 
