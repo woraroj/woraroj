@@ -52,7 +52,7 @@
 
   ---
 <h3> :computer: EMPLOYMENT HISTORY :computer: </h3> 
-- I’m working as a Software Engineer at <a href="shop.hongthongofficial.com">shop.hongthongofficial.com</a> <br/>
+- I’m working as a Full-Stack Software Engineer at <a href="shop.hongthongofficial.com">shop.hongthongofficial.com</a> <br/>
 - Former Software Engineer at Appman.co <br/>
 - Former Frontend Developer at AI TECHNOVATION.CO <br/>
 - Former Intern as a Frontend Developer at NELLIKA CONSULTANCY <br/>
