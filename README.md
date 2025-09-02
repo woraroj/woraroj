@@ -52,15 +52,15 @@
 
   ---
 <h3> :computer: Experience :computer: </h3> 
-- Full-Stack Software Engineer at shop.hongthongone.com
-- Former Software Engineer at Appman.co
-- Former Frontend Developer at AI TECHNOVATION.CO
-- Former Frontend Developer Intern at NELLIKA CONSULTANCY
+<h4>- Full-Stack Software Engineer at shop.hongthongone.com</h4>
+<h4>- Former Software Engineer at Appman.co</h4>
+<h4>- Former Frontend Developer at AI TECHNOVATION.CO</h4>
+<h4>- Former Frontend Developer Intern at NELLIKA CONSULTANCY</h4>
 <br/>
 
 <h3> :mortar_board: Education :mortar_board: </h3> 
-<h4>Diploma of Web and Mobile App Development from Cornerstone International Community College of Canada, Vancouver, CA</h5>
-<h4>Bachelor of Business Administration from Dusit Thani College, Bangkok, TH</h5>
+<h4>- Diploma of Web and Mobile App Development from Cornerstone International Community College of Canada, Vancouver, CA</h4>
+<h4>- Bachelor of Business Administration from Dusit Thani College, Bangkok, TH</h4>
 
 
 
