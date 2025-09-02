@@ -51,19 +51,16 @@
   </div>
 
   ---
-<h3> :computer: EMPLOYMENT HISTORY :computer: </h3> 
-- I’m working as a Full-Stack Software Engineer at <a href="shop.hongthongofficial.com">shop.hongthongofficial.com</a> <br/>
-- Former Software Engineer at Appman.co <br/>
-- Former Frontend Developer at AI TECHNOVATION.CO <br/>
-- Former Intern as a Frontend Developer at NELLIKA CONSULTANCY <br/>
+<h3> :computer: Experience :computer: </h3> 
+- Full-Stack Software Engineer at shop.hongthongone.com
+- Former Software Engineer at Appman.co
+- Former Frontend Developer at AI TECHNOVATION.CO
+- Former Frontend Developer Intern at NELLIKA CONSULTANCY
 <br/>
 
-<h3> :mortar_board: EDUCATION :mortar_board: </h3> 
-<h4>Cornerstone International Community College of Canada | Vancouver, CA</h5>
-<h6>Diploma of Web And Mobile App Development	 	|	 January 2017-December 2018</h6>
-
-<h4>Dust Thani College	 | Bangkok, TH</h5>
-<h6>Bachelor of Business Administration		 	|	 March 2013- March 2016</h6>
+<h3> :mortar_board: Education :mortar_board: </h3> 
+<h4>Diploma of Web and Mobile App Development from Cornerstone International Community College of Canada, Vancouver, CA</h5>
+<h4>Bachelor of Business Administration from Dusit Thani College, Bangkok, TH</h5>
 
 
 
