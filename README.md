@@ -8,8 +8,6 @@
  
 <br/>
 
-
-  ---
 <h3> :computer: Experience :computer: </h3> 
 <h4>- Full-Stack Software Engineer at shop.hongthongone.com</h4>
 <h4>- Former Software Engineer at Appman.co</h4>
